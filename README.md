@@ -1,4 +1,4 @@
-# typora-cli
+# typora-cli
 
 quick open Typora
 
