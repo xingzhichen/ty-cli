@@ -12,6 +12,10 @@
   "keywords": [
     "typora"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xingzhichen/ty-cli"
+  },
   "author": "xingzhichen",
   "license": "ISC",
   "dependencies": {
