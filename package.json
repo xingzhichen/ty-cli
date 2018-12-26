@@ -3,7 +3,7 @@
   "bin": {
     "ty": "./src/index.js"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "quick open md use typora",
   "main": "index.js",
   "scripts": {
